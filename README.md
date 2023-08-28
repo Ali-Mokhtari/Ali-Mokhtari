@@ -7,7 +7,7 @@
 
 🐳 Currently, I'm diving deep into the world of orchestration and containerization through [Kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com/).
 
-🚀 My ongoing research focuses on cost optimization strategies for deploying deep learning applications on heterogeneous Cloud computing platforms. Particularly, I am actively engaged in projects aimed at reducing the cost associated with deploying deep learning applications on AWS EC2 instances. 
+🚀 My ongoing research focuses on cost optimization strategies for deploying deep learning applications on heterogeneous Cloud computing platforms. Particularly, I am actively engaged in projects aimed at reducing the cost associated with deploying deep learning applications on [AWS EC2](https://aws.amazon.com/pm/ec2/?trk=9cd376cd-1c18-46f2-9f75-0e1cdbca94c5&sc_channel=ps&ef_id=Cj0KCQjwi7GnBhDXARIsAFLvH4kEr91NC3HYAHsgavIC0a50LS_f4hMXxRTx3DfQclJCcXM2kaF6uLoaApPcEALw_wcB:G:s&s_kwcid=AL!4422!3!651751059309!e!!g!!aws%20ec2!19852662176!145019189697) instances. 
 
 💬 Ask me about my [research](research), and I'd be delighted to share my insights! 
 

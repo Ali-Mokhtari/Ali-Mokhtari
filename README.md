@@ -1,4 +1,5 @@
-### Hi there, I'm Ali Mokhtaary 👋
+### Hi there 👋, I'm Ali Mokhtaary 
+==================================
 
 👨‍💻 I'm a PhD candidate in Computer Science at the University of Louisiana at Lafayette.
 

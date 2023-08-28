@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ali Mokhtaary 
+### Hi there 👋, I'm Ali Mokhtari 
 ==================================
 
 👨‍💻 I'm a PhD candidate in Computer Science at the University of Louisiana at Lafayette.
@@ -11,12 +11,13 @@
 
 💬 Ask me about my [research](research), and I'd be delighted to share my insights! 
 
+📫 You can reach me at: ali.mokhtaary@gmail.com
+
 🎵 Fun Facts:
    - 🎶 I have a deep passion for music, especially the legendary [Mohammadreza Shajarian](https://en.wikipedia.org/wiki/Mohammad-Reza_Shajarian).
    - ⚽ I'm an avid soccer fan and enjoy watching matches whenever I can.
    - 🌍 Traveling and going on road trips are my favorite ways to explore the world.
 
-📫 You can reach me at: ali.mokhtaary@gmail.com
 
 Let's connect, collaborate, and make the tech world a better place together!
 

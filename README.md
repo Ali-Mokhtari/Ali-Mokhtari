@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Ali Mokhtaary 👋
 
-<!--
-**Ali-Mokhtari/Ali-Mokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a PhD candidate in Computer Science at the University of Louisiana at Lafayette.
 
-Here are some ideas to get you started:
+🤖 My primary interest lies at the intersection of Machine Learning and Systems, where I explore innovative ways to enhance system performance and enable seamless delivery of ML services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐳 Currently, I'm diving deep into the world of orchestration and containerization through Kubernetes and Docker.
+
+🚀 My ongoing research focuses on cost optimization strategies for deploying deep learning applications on heterogeneous Cloud computing platforms. Particularly, I am actively engaged in projects aimed at reducing the cost associated with deploying deep learning applications on AWS EC2 instances. 
+
+💬 Ask me about my [research](research), and I'd be delighted to share my insights! 
+
+🎵 Fun Facts:
+   - 🎶 I have a deep passion for music, especially the legendary Mohammadreza Shajarian.
+   - ⚽ I'm an avid soccer fan and enjoy watching matches whenever I can.
+   - 🌍 Traveling and going on road trips are my favorite ways to explore the world.
+
+📫 You can reach me at: ali.mokhtaary@gmail.com
+
+Let's connect, collaborate, and make the tech world a better place together!

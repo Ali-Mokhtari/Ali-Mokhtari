@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ali Mokhtari 
+### Hi there 👋, I'm [Ali Mokhtari](https://www.linkedin.com/in/ali-mokhtari-ai/) 
 ==================================
 
 👨‍💻 I'm a PhD candidate in Computer Science at the University of Louisiana at Lafayette.
